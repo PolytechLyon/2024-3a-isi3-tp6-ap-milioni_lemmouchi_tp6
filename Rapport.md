@@ -12,6 +12,9 @@ Nous ne devons pas récrire la méthode getVelocity() et getMass()
 
 ## Exercices 2
 
+La méthode getVelocity() utilise un patron de conception Iterator pour parcourir la collection d'objets components de Vehicle. Ce patron permet de parcourir une collection sans exposer ses détails d'implémentation sous-jacents (par exemple, si components est un HashSet, une ArrayList, etc.).
+
+et donc nous n'avons pas besoin de la réalisation de la méthode getVelocity().
 
 
 ## Exercices 3
