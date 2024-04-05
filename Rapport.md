@@ -19,6 +19,8 @@ et donc nous n'avons pas besoin de la réalisation de la méthode getVelocity().
 
 ## Exercices 3
 
+Pour mettre en œuvre le Singleton dans Clock : il faut rendre le constructeur privé, ajouter un champ statique privé pour conserver l'unique instance, et fournir une méthode statique publique getInstance() pour obtenir cette instance
+
 ## Exercices 4
 
 ## Exercices 5
