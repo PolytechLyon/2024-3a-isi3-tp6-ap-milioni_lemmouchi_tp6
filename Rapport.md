@@ -31,7 +31,14 @@ Oui, il y a déjà une abstraction : Vehicle implémente getPush() et se trouve 
 
 ## Exercices 6
 
+Contrairement à un singleton qui limite la création à une seule instance, 
+cette méthode permet de générer plusieurs instances de Logger. 
+Elle conserve l'avantage d'éliminer le besoin de créer manuellement des composants, 
+tout en offrant la flexibilité de créer plusieurs instances si nécessaire.
+
 ## Exercices 7
+
+j'ai commit dans exercice 6 cette question ... 
 
 ## Exercices 8
 
