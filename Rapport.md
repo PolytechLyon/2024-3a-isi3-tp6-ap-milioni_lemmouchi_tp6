@@ -42,4 +42,13 @@ j'ai commit dans exercice 6 cette question ...
 
 ## Exercices 8
 
+La classe Context agit comme une façade, restreignant l'accès de l'utilisateur à des 
+fonctionnalités spécifiques du ServiceLoader parent. Chaque ligne du fichier associé 
+représente un type de classe différent que le ServiceLoader est chargé d'instancier.
+
+## Exercices 9
+
+patron iterator
+
+
 
